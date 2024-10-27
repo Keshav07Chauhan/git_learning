@@ -1,3 +1,4 @@
 this is a file for git learning
 
 i am fixing bugs
+new bug

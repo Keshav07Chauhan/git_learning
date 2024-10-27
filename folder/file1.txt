@@ -1,4 +1,6 @@
 this is a file for git learning
 
 i am fixing bugs
+
 master is checking
+
